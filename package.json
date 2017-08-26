@@ -1,0 +1,14 @@
+{
+  "name": "express-async-error-handler",
+  "version": "1.0.0",
+  "author": "Anthony Short <antshort@gmail.com>",
+  "main": "index.js",
+  "license": "ISC",
+  "keywords": [
+    "express",
+    "async",
+    "await",
+    "errors",
+    "error"
+  ]
+}
